@@ -22,7 +22,7 @@ title: Zara Anemone
 email: zaranemone@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Zaranemone s a Berlin-based painter known for their expressive works showcased in numerous art galleries across the city. Their paintings explore themes like urban landscapes, human emotion, or abstract concepts, blending signature techniques and material  with a distinct contemporary style. With a growing presence in Berlin's vibrant art scene, their works have been featured in notable galleries, earning recognition for their unique artistic voice.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/zaranemone" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: zaranemone
 github_username:  zaranemone

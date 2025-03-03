@@ -29,10 +29,6 @@ github_username:  zaranemone
 
 # Build settings
 theme: minima
-remote_theme: pages-themes/slate
-include:
-  - assets
-
 plugins:
   - jekyll-feed
 
